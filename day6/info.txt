@@ -1,0 +1,4 @@
+name=varshitha
+age=21
+role=software engineer trainee
+company=acuvate
