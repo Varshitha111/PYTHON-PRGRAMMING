@@ -1,0 +1,3 @@
+name=varshitha reddy
+age=21
+course=datascience

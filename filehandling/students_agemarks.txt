@@ -1,0 +1,3 @@
+name=varshitha
+age=21
+marks=90
